@@ -57,5 +57,3 @@ jobs:
           nohup python3 app.py > output.log 2>&1 &
 
           echo "✅ Deployment completed successfully!"
-
-          EOF
